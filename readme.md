@@ -7,7 +7,7 @@
 **1. Adding dependency**
 
 ```
-yarn add @wesleyalmd/pwa-studio-newsletter
+yarn add @wesleyalmd/pwa-studio-product-unavailable
 ```
 
 **2. Wrap module in your `local-intercept.js`**
